@@ -26,4 +26,4 @@ Se você se interessar por algo, sinta-se à vontade para me contatar pelo e-mai
 If you get interested in something, feel free to reach me by this email: [obrunocarraro@gmail.com](mailto:reidasilva@reida.com)
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote=Make easy things are hard.)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=COMO%20PODE%20UM%20CARA%20ESCREVER%20UMA%20COISA%20QUE%20EU%20N%C3%83O%20ENTENDA?%20N%C3%83O%20TEM%20COMO!%20EU%20VOU%20LER%20AQUELA%20M****%20AT%C3%89%20ENTENDER!%20Isso%20%C3%A9%20brio.&author=Cl%C3%B3vis%20de%20Barros%20Filho)](https://github.com/piyushsuthar/github-readme-quotes)
