@@ -17,7 +17,6 @@ I'm a Software Engineering student with some projects on the way!
 Atualmente, estou aprendendo mais sobre **arquiteturas** e como posso melhorar meu código para **testabilidade** e **manutenibilidade**.  
 Right now, I'm learning more about **architectures** and how I can improve my code for **testability** and **maintainability**.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
@@ -25,3 +24,6 @@ Right now, I'm learning more about **architectures** and how I can improve my co
 
 Se você se interessar por algo, sinta-se à vontade para me contatar pelo e-mail: [obrunocarraro@gmail.com](mailto:reidasilva@reida.com)  
 If you get interested in something, feel free to reach me by this email: [obrunocarraro@gmail.com](mailto:reidasilva@reida.com)
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote=Make easy things are hard.)](https://github.com/piyushsuthar/github-readme-quotes)
