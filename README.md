@@ -11,9 +11,9 @@ I'm a Software Engineering student with some projects on the way!
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)" alt="C#"/>
  
 </div>
--  C#
 
 ---
 
